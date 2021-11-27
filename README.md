@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Dawn Nguyen 👋
 
 <!--
 **YuuHaruna/YuuHaruna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![MasterHead](https://hinhnen123.com/wp-content/uploads/2021/06/anh-meo-cute-nhat-9.jpg)](https://github.com/YuuHaruna)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
