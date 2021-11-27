@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 [![MasterHead](https://hinhnen123.com/wp-content/uploads/2021/06/anh-meo-cute-nhat-9.jpg)](https://github.com/YuuHaruna)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-<center src = "Github status">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuuHaruna&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
